@@ -6,9 +6,6 @@
               <th scope="row" class="align-middle time">09:00</th>
               <td class="input-cell">
                 <textarea class="input-area" id="area-09"></textarea>
-                <textarea class="input-area" id="area-09"></textarea>
-                <textarea class="input-area" id="area-09"></textarea>
-                <textarea class="input-area" id="area-09"></textarea>
               </td>
               <td id="save-0900" class="align-middle save-button-cell">
                 <div class="text-center">
@@ -24,9 +21,6 @@
             <tr id="10">
               <th scope="row" class="align-middle time">10:00</th>
               <td class="input-cell">
-                <textarea class="input-area" id="area-10"></textarea>
-                <textarea class="input-area" id="area-10"></textarea>
-                <textarea class="input-area" id="area-10"></textarea>
                 <textarea class="input-area" id="area-10"></textarea>
               </td>
               <td id="save-1000" class="align-middle save-button-cell">
@@ -44,9 +38,6 @@
               <th scope="row" class="align-middle time">11:00</th>
               <td class="input-cell">
                 <textarea class="input-area" id="area-11"></textarea>
-                <textarea class="input-area" id="area-11"></textarea>
-                <textarea class="input-area" id="area-11"></textarea>
-                <textarea class="input-area" id="area-11"></textarea>
               </td>
               <td id="save-1100" class="align-middle save-button-cell">
                 <div class="text-center">
@@ -62,9 +53,6 @@
             <tr id="12">
               <th scope="row" class="align-middle time">12:00</th>
               <td class="input-cell">
-                <textarea class="input-area" id="area-12"></textarea>
-                <textarea class="input-area" id="area-12"></textarea>
-                <textarea class="input-area" id="area-12"></textarea>
                 <textarea class="input-area" id="area-12"></textarea>
               </td>
               <td id="save-1200" class="align-middle save-button-cell">
@@ -82,9 +70,6 @@
               <th scope="row" class="align-middle time">13:00</th>
               <td class="input-cell">
                 <textarea class="input-area" id="area-13"></textarea>
-                <textarea class="input-area" id="area-13"></textarea>
-                <textarea class="input-area" id="area-13"></textarea>
-                <textarea class="input-area" id="area-13"></textarea>
               </td>
               <td id="save-1300" class="align-middle save-button-cell">
                 <div class="text-center">
@@ -100,9 +85,6 @@
             <tr id="14">
               <th scope="row" class="align-middle time">14:00</th>
               <td class="input-cell">
-                <textarea class="input-area" id="area-14"></textarea>
-                <textarea class="input-area" id="area-14"></textarea>
-                <textarea class="input-area" id="area-14"></textarea>
                 <textarea class="input-area" id="area-14"></textarea>
               </td>
               <td id="save-1400" class="align-middle save-button-cell">
@@ -120,9 +102,7 @@
               <th scope="row" class="align-middle time">15:00</th>
               <td class="input-cell">
                 <textarea class="input-area" id="area-15"></textarea>
-                <textarea class="input-area" id="area-15"></textarea>
-                <textarea class="input-area" id="area-15"></textarea>
-                <textarea class="input-area" id="area-15"></textarea>
+
               </td>
               <td id="save-1500" class="align-middle save-button-cell">
                 <div class="text-center">
@@ -139,9 +119,6 @@
               <th scope="row" class="align-middle time">16:00</th>
               <td class="input-cell">
                 <textarea class="input-area" id="area-16"></textarea>
-                <textarea class="input-area" id="area-16"></textarea>
-                <textarea class="input-area" id="area-16"></textarea>
-                <textarea class="input-area" id="area-16"></textarea>
               </td>
               <td id="save-1600" class="align-middle save-button-cell">
                 <div class="text-center">
@@ -157,9 +134,6 @@
             <tr id="17" class="border">
               <th scope="row" class="align-middle time">17:00</th>
               <td class="input-cell">
-                <textarea class="input-area" id="area-17"></textarea>
-                <textarea class="input-area" id="area-17"></textarea>
-                <textarea class="input-area" id="area-17"></textarea>
                 <textarea class="input-area" id="area-17"></textarea>
               </td>
               <td id="save-1700" class="align-middle save-button-cell">
