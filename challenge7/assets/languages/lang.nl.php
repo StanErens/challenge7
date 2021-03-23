@@ -46,7 +46,7 @@
 
 
     //form
-    define("FORM_TITLE", "<h2>Admin <em>Form</em></h2>");
+    define("FORM_TITLE", "<h2>Admin <em>Pagina</em></h2>");
 
     //cars
     define("CARS_TITLE", "<h2>Onze <em>Auto's</em></h2>");
@@ -104,4 +104,6 @@
     define("QUA_MESSAGE", "Uw bericht");
     define("QUA_SEND", "Verstuur Bericht");
 
+    define("AGENDA", "<h2>Dag <em>Planner</em></h2>");
 
+    define("FORM_TITLE_CAR", "<h2>voeg <em>Car</em> toe</h2>");

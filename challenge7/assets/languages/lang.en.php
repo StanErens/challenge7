@@ -49,7 +49,7 @@
 
 
     //form
-    define("FORM_TITLE", "<h2>Admin <em>Form</em></h2>");
+    define("FORM_TITLE", "<h2>Admin <em>Page</em></h2>");
 
 
     //cars
@@ -106,7 +106,12 @@
     define("QUA_MESSAGE", "Your message");
     define("QUA_SEND", "Send Message");
 
+    //plannersystem
+    define("AGENDA", "<h2>Day <em>Planner</em></h2>");
 
+    
+
+    define("FORM_TITLE_CAR", "<h2>Add <em>Car</em></h2>");
    
    
 
