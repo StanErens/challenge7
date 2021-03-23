@@ -69,7 +69,10 @@ require_once("assets/languages/lang.$lang.php")
         </div>
     </section>
 
-       
+    <?php
+    include_once("assets/includes/clock.inc.php");
+    include_once("assets/includes/agenda.inc.php");
+    ?>
 
     <script
       src="https://code.jquery.com/jquery-3.3.1.slim.min.js"

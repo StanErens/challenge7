@@ -5,7 +5,7 @@
             <tr id="09">
               <th scope="row" class="align-middle time">09:00</th>
               <td class="input-cell">
-                <textarea class="input-area" id="area-09"></textarea>
+                <div class="input-area" id="area-09">snoep</div>
               </td>
               <td id="save-0900" class="align-middle save-button-cell">
                 <div class="text-center">

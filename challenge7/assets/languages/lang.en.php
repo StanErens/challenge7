@@ -110,7 +110,7 @@
     define("AGENDA", "<h2>Day <em>Planner</em></h2>");
 
     
-
+    define("FORM_TITLE_APPOINTMENT", "<h2>ADD <em>Appointment</em></h2>");
     define("FORM_TITLE_CAR", "<h2>Add <em>Car</em></h2>");
     define("NAV_CONTACT_2", "appointment");
 

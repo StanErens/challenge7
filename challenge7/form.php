@@ -72,9 +72,20 @@ require_once("assets/languages/lang.$lang.php")
         </div>
     </section>
 
+    <section class="section" id="trainers">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 offset-lg-3">
+                    <div class="section-heading">
+                        <?php echo FORM_TITLE_APPOINTMENT; ?>
+                        <img src="assets/images/line-dec.png" alt="">
+                    </div>
+                </div>
+            </div>
+
     <?php
-    include_once('assets/includes/clock.inc.php');
-    include_once('assets/includes/agenda.inc.php');
+    
+    include_once('assets/includes/agendaform.inc.php');
     ?>
     <section class="section" id="trainers">
         <div class="container">

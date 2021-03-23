@@ -37,7 +37,7 @@
                                     <a class="dropdown-item" href="<?php echo $url_en; ?>">English</a>
                                 </div>
                             </li>
-                            <li><a href="contactform2.php"><?php echo NAV_CONTACT_2; ?></a></li>
+                            <li><a href="plannersystem.php"><?php echo NAV_CONTACT_2; ?></a></li>
                             <li><?php include_once("assets/includes/inloguitlog.php");?></li>
                             <li><?php include_once("assets/includes/add.button.php");?></li>
                         </ul>        
