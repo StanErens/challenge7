@@ -35,7 +35,7 @@
     define("FILL_IN_CREDENTIALS", "<p>Vul uw gegevens in om in te loggen.</p>");
     define("FORM_USERNAME", "Gebruikersnaam");
     define("FORM_PASSWORD", "Wachtwoord");
-    define("LOGIN_ADMIN", "<h2>administrator <em>Inlog</em></h2>");
+    define("LOGIN_ADMIN", "<h2>Inlog</h2>");
 
 
     //contact

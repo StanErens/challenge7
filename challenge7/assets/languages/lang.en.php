@@ -36,7 +36,7 @@
     define("FILL_IN_CREDENTIALS", "<p>Please fill in your credentials to login.</p>");
     define("FORM_USERNAME", "Username");
     define("FORM_PASSWORD", "Password");
-    define("LOGIN_ADMIN", "<h2>Administator <em>Login</em></h2>");
+    define("LOGIN_ADMIN", "<h2>Login</h2>");
 
 
 
