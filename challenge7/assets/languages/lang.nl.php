@@ -107,3 +107,4 @@
     define("AGENDA", "<h2>Dag <em>Planner</em></h2>");
 
     define("FORM_TITLE_CAR", "<h2>voeg <em>Car</em> toe</h2>");
+    define("NAV_CONTACT_2", "afspraak");

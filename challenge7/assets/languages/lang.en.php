@@ -112,6 +112,9 @@
     
 
     define("FORM_TITLE_CAR", "<h2>Add <em>Car</em></h2>");
+    define("NAV_CONTACT_2", "appointment");
+
+  
    
    
 
