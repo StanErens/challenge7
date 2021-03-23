@@ -113,6 +113,9 @@
 
     define("FORM_TITLE_CAR", "<h2>Add <em>Car</em></h2>");
     define("NAV_CONTACT_2", "appointment");
+    define("NAV_APPOINTMENT", "<p>Plan your appointment here</p>");
+    define("NAV_APPOINTMENT2", "<h2>Appointment <em>form</em><h2/>");
+    define("QUA_DESC", "<p>Fill in this form to request a testdrive or a quatation</p>");
 
   
    
