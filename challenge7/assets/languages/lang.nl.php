@@ -109,3 +109,5 @@
     define("FORM_TITLE_APPOINTMENT", "<h2>voeg <em>Afspraak</em> toe</h2>");
     define("FORM_TITLE_CAR", "<h2>voeg <em>Car</em> toe</h2>");
     define("NAV_CONTACT_2", "afspraak");
+    define("NAV_APPOINTMENT", "<p>Plan hier uw afspraak</p>");
+    define("NAV_APPOINTMENT2", "<h2>Afspraken <em>formulier</em><h2/>");
